@@ -1,9 +1,8 @@
 ### Hi! I'm Murilo de Moraes Sigismundo
 
-- 😄 Pronouns: He / Him
-- 🔭 I’m currently working on Personal goals
-- 🌱 I’m currently learning Python
-- 🤔 I’m looking for help with Data Science
+- 🔭 I’m currently working on personal projects
+- 🌱 I’m currently learning Python / Javascript
+- 🤔 I’m looking for help with Data structures
 - 📫 How to reach me: murilosigis@gmail.com or @murilo_ms.py on Instagram
 
 <div>
